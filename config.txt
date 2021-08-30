@@ -1,0 +1,6 @@
+search_string = Bashar Momin Episode 1
+min_watch = 10
+max_watch = 30
+wait_after = 15
+views = 5
+multicore = False
